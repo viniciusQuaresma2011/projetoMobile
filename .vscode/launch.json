@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ProjetoBasicoApplication<ProjetoBasico>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.springboot.application.ProjetoBasicoApplication",
+            "projectName": "ProjetoBasico",
+            "args": ""
+        }
+    ]
+}
